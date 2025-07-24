@@ -27,13 +27,13 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-🇬🇧 Hi !
+🇬🇧 Hi ! 🇬🇧
 
 I'm Baptiste Buchi, I have a PhD in computer science specializing in the use of artificial intelligence in multi-agent systems, distributed systems, and the reconfiguration of modular robots.
 
 My thesis, “Learning System for Self-Reconfiguration of Micro-Robot Networks,” was carried out in the OMNI team at the FEMTO-ST laboratory and was completed in 2023. I have since worked at LORIA in the LARSEN team and am currently a lecturer and researcher at CESI in the LINEACT laboratory.
 
-🇫🇷 Bonjour !
+🇫🇷 Bonjour ! 🇫🇷
 
 Je suis Baptiste Buchi, docteur en informatique spécialisé en utilisation d'intelligence artificielle sur des systèmes multi-agents, les systèmes distribués et la reconfiguration de robots modulaires.
 

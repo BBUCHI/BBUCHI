@@ -16,7 +16,7 @@
   "work": [
     {
       "name": "CESI LINEACT",
-      "position": "Enseignant Chercheur",
+      "position": "Associate professor / Enseignant Chercheur",
       "url": "https://www.cesi.fr/",
       "startDate": "2024-11-01",
       "endDate": "",
@@ -27,7 +27,7 @@
     },
     {
       "name": "Télécom Nancy",
-      "position": "ATER",
+      "position": "ATER (Temporary Teaching and Research Assistant)",
       "url": "https://telecomnancy.univ-lorraine.fr/",
       "startDate": "2023-09-01",
       "endDate": "2024-08-31",
@@ -38,7 +38,7 @@
     },
     {
       "name": "Polytech Nancy",
-      "position": "ATER",
+      "position": "ATER (Temporary Teaching and Research Assistant)",
       "url": "https://polytech.univ-lorraine.fr/",
       "startDate": "2022-11-01",
       "endDate": "2023-08-31",
@@ -54,7 +54,7 @@
       "institution": "Université de Technologie de Belfort-Montbéliard",
       "url": "https://www.utbm.fr/",
       "area": "Informatique",
-      "studyType": "Doctorat",
+      "studyType": "PhD in Computer Science / Doctorat en Informatique",
       "startDate": "2019-01-01",
       "endDate": "2023-12-06",
       "score": "",
@@ -64,7 +64,7 @@
       "institution": "Université de Lorraine",
       "url": "https://www.univ-lorraine.fr/",
       "area": "Informatique - AVR",
-      "studyType": "Master",
+      "studyType": "Master in Computer Science / Master en Informatique",
       "startDate": "2017-01-01",
       "endDate": "2019-01-01",
       "score": "",
@@ -74,7 +74,7 @@
       "institution": "Université de Lorraine",
       "url": "https://www.univ-lorraine.fr/",
       "area": "Informatique",
-      "studyType": "Licence",
+      "studyType": "Bachelor in Computer Science / Licence en Informatique",
       "startDate": "2014-01-01",
       "endDate": "2017-01-01",
       "score": "",
@@ -83,22 +83,6 @@
   ],
   "awards": [],
   "certificates": [],
-  "publications": [
-    {
-      "name": "Machine Learning for Modular Robots Self-Reconfiguration Problem",
-      "publisher": "Unknown",
-      "releaseDate": "2025-03-01",
-      "url": "",
-      "summary": "Étude de réseaux de neurones pour l’auto-reconfiguration de robots modulaires."
-    },
-    {
-      "name": "Machine learning for the selection of the most energy efficient modular robots self-reconfiguration",
-      "publisher": "IEEE",
-      "releaseDate": "2024-03-01",
-      "url": "https://ieeexplore.ieee.org/document/10448937/",
-      "summary": "Optimisation énergétique via apprentissage pour reconfiguration robotique."
-    }
-  ],
   "skills": [
     {
       "name": "Web Development",
